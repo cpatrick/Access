@@ -9,4 +9,6 @@
   <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/jboss/teiid/teiid-api/8.2.0.Final/teiid-api-8.2.0.Final.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/jboss/teiid/teiid-common-core/8.2.0.Final/teiid-common-core-8.2.0.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar"/>
+  <classpathentry kind="src" path="/MidasAdaptor"/>
 </classpath>

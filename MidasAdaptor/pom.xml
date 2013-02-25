@@ -11,7 +11,7 @@
   <groupId>org.qibench.access</groupId>
   <artifactId>MidasAdaptor</artifactId>
   <version>0.1</version>
-  <packaging>rar</packaging>
+  <packaging>jar</packaging> <!-- change to rar for proper deploy -->
 
   <name>MidasAdaptor</name>
   <url>http://maven.apache.org</url>
